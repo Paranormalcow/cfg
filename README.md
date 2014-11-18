@@ -1,4 +1,4 @@
 cfg
 ===
 
-Personal config files for various games.
+Personal configs files for various games.
